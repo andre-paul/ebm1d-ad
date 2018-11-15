@@ -1,0 +1,7 @@
+&run_parameters   startTime=0.0,
+                  endTime=100.0,
+                  deltaT=86400.0, 
+                  initialConditionsFileName='../input/modern_climatology.dat',
+                  restartDataFileName='restart.dat',
+                  referenceDataFileName='../experiments/PD1/PD1_reference.dat',
+                  observationsFileName='../input/glamap_c_lgm_sst_anomaly_r36x18_zm.dat'/

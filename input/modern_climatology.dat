@@ -1,0 +1,26 @@
+% Filename:     modern_climatology.dat
+% No. of header lines:  8
+% No. of columns:       4
+% Column  1: yobs     = latitude/degN
+% Column  2: tobs_jfm = NH winter (Feb) surface air temperature/degC
+% Column  3: tobs_jas = NH summer (Aug) surface air temperature/degC
+% Column  4: tobs_ann = annual-mean surface air temperature/degC
+% From NCEP/NCAR reanalysis data
+    -85.0000        -40.5        -47.8        -37.5 
+    -75.0000        -30.3        -40.3        -30.4 
+    -65.0000         -1.5        -14.2          7.4 
+    -55.0000          4.5          1.1          2.8 
+    -45.0000         11.5          7.5          9.5 
+    -35.0000         19.2         13.8         16.4 
+    -25.0000         23.8         19.0         21.2 
+    -15.0000         25.1         23.5         24.1 
+     -5.0000         26.0         24.8         25.3 
+      5.0000         25.9         25.5         25.6 
+     15.0000         25.3         26.8         25.9 
+     25.0000         20.4         26.0         22.9 
+     35.0000          9.9         20.4         14.7 
+     45.0000          2.3         15.2          8.2 
+     55.0000         -4.8          9.1          1.9 
+     65.0000        -14.3          2.7         -5.7 
+     75.0000        -23.3         -4.2        -13.2 
+     85.0000        -31.0        -10.1        -17.8 

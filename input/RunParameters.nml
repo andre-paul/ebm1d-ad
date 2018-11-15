@@ -1,0 +1,7 @@
+&run_parameters   startTime=0.0,
+                  endTime=100.0,
+                  deltaT=86400.0, 
+                  initialConditionsFileName='../input/modern_climatology.dat',
+                  restartDataFileName='restart.dat',
+                  referenceDataFileName='../input/zeros.dat',
+                  observationsFileName='../input/modern_climatology.dat'/
