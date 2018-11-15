@@ -1,3 +1,3 @@
-Ebm1D
+# README
 
-A one-dimensional energy balance model of climate for automatic differentiation
+Ebm1D: A one-dimensional energy balance model of climate for automatic differentiation
